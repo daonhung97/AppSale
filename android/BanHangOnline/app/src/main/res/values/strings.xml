@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BanHangOnline</string>
+    <string name="title_activity_thongtin">Map</string>
+    <string name="title_activity_thong_tin">Map</string>
+</resources>

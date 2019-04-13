@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+    <translate android:duration="2000" android:fromXDelta="0%" android:toXDelta="-100%"/>//đi từ tay phải fromXDelta đến tay trái  toXDelta
+    <alpha android:duration="2000" android:fromAlpha="1.0" android:toAlpha="0.0"/> // cho n bắt đầu mờ dần từ 1.0 đến 0.0
+
+</set>
